@@ -1,3 +1,21 @@
+# BIOMD0000000422: Middleton2012_GibberellinSignalling
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000422.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000422.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -31,4 +49,5 @@ after the removal of exogenous gibberellin. Moreover, although the
 contribution of other individual feedback loops seems relatively small, GID1
 and DELLA transcriptional regulation acts synergistically with GA20ox
 feedback.
+
 
